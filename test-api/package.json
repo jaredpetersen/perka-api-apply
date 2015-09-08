@@ -1,0 +1,10 @@
+{
+  "name": "test-api",
+  "main": "server.js",
+  "version": "0.0.1",
+  "author": "Jared Petersen",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.1"
+  }
+}
